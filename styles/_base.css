@@ -1,0 +1,9 @@
+.page {
+  max-width: 768px;
+  margin: 36px auto;
+}
+
+.well {
+  max-width: 300px;
+  margin: 36px auto;
+}
