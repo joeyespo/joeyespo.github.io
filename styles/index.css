@@ -1,0 +1,55 @@
+.intro-container {
+  display: inline-block;
+  width: 100%;
+}
+.intro {
+  max-width: 768px;
+  margin: 0 auto;
+  color: #ccc;
+}
+.intro a {
+  color: white;
+}
+
+.profile-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.profile {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+.profile h1 {
+  margin: 0;
+  padding: 24px 0;
+}
+.profile ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.profile li {
+  margin-bottom: 8px;
+}
+
+.description-container {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.description {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.social-icons {
+  display: block;
+  margin-top: 24px;
+}
+.social-icons li {
+  float: left;
+  margin-right: 8px;
+}

@@ -1,0 +1,55 @@
+@media (min-width:1048px) {
+  .profile-container {
+    background-position: 768px;
+  }
+}
+@media (min-width:500px) and (max-width:1047px) {
+  .profile-container {
+    background-position: top right;
+  }
+}
+@media (max-width:499px) {
+  .profile-container {
+    background-position: top;
+  }
+  .profile {
+    width: 280px;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .profile h1 {
+    padding-top: 266px;
+  }
+}
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #fff;
+}
+
+h1 {
+  color: #EE1D25;
+}
+
+a {
+  color: #333;
+}
+
+.intro-container {
+  background: #222;
+  color: white;
+}
+.intro a {
+  color: white;
+}
+
+.profile-container {
+  background: url("../images/profile.png") 768px no-repeat;
+  color: #333;
+}
+.profile {
+  min-height: 250px;
+}
+.profile a {
+  font-weight: bold;
+}
