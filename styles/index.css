@@ -25,12 +25,12 @@
   margin: 0;
   padding: 24px 0;
 }
-.profile ul {
+
+.bio ul {
   margin: 0;
   padding: 0;
-  list-style: none;
 }
-.profile li {
+.bio li {
   margin-bottom: 8px;
 }
 
@@ -48,6 +48,14 @@
 .social-icons {
   display: block;
   margin-top: 24px;
+}
+.social-icons {
+  height: 45px;
+}
+.social-icons ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 .social-icons li {
   float: left;
