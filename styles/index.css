@@ -12,12 +12,12 @@
 }
 
 .profile-container {
-  background: none no-repeat;
   width: 100%;
   margin: 0;
   padding: 0;
 }
 .profile {
+  background: none no-repeat;
   max-width: 768px;
   margin: 0 auto;
   padding: 0 12px;

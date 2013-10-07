@@ -1,18 +1,16 @@
 @media (min-width: 1065px) {
-  .profile-container {
-    background-position: 786px;
+  .profile {
+    background-position: 512px;
   }
 }
 @media (min-width: 500px) and (max-width: 1064px) {
-  .profile-container {
+  .profile {
     background-position: top right;
   }
 }
 @media (max-width: 499px) {
-  .profile-container {
-    background-position: top;
-  }
   .profile {
+    background-position: top;
     width: 280px;
     margin: 0 auto;
     padding: 12px;
@@ -44,10 +42,10 @@ a {
 }
 
 .profile-container {
-  background-image: url("../images/profile.png");
   color: #333;
 }
 .profile {
+  background-image: url("../images/profile.png");
   min-height: 250px;
 }
 .profile a {
