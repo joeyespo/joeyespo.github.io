@@ -1,14 +1,14 @@
-@media (min-width:1048px) {
+@media (min-width: 1065px) {
   .profile-container {
-    background-position: 768px;
+    background-position: 786px;
   }
 }
-@media (min-width:500px) and (max-width:1047px) {
+@media (min-width: 500px) and (max-width: 1064px) {
   .profile-container {
     background-position: top right;
   }
 }
-@media (max-width:499px) {
+@media (max-width: 499px) {
   .profile-container {
     background-position: top;
   }
@@ -44,7 +44,7 @@ a {
 }
 
 .profile-container {
-  background: url("../images/profile.png") 768px no-repeat;
+  background-image: url("../images/profile.png");
   color: #333;
 }
 .profile {
