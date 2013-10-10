@@ -53,3 +53,12 @@ a {
   font-size: 18px;
   font-weight: bold;
 }
+
+.social-icons a {
+  display: block;
+}
+.social-icons a img {
+  display: block;
+  width: 32px;
+  height: 32px;
+}
