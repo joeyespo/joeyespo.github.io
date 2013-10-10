@@ -49,5 +49,6 @@ a {
   min-height: 250px;
 }
 .profile a {
+  font-size: 18px;
   font-weight: bold;
 }

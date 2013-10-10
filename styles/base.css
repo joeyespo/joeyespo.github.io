@@ -10,6 +10,10 @@ p {
   margin: 16px 0;
 }
 
+h1 {
+  font-size: 42px;
+}
+
 a,
 a:link,
 a:hover,
