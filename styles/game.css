@@ -1,0 +1,37 @@
+.game {
+  width: 768px;
+  margin: 0 auto;
+}
+
+.game h1 {
+  margin-bottom: 0;
+}
+
+.game p {
+  margin: 8px 0;
+}
+
+a img:hover {
+  opacity: 1;
+}
+
+.game .details {
+  margin: 8px 0;
+}
+
+.game .details {
+  color: #555;
+  font-size: 14px;
+  margin: 0 0 24px 0;
+}
+
+.game footer {
+  margin-top: 24px;
+  padding: 12px 0;
+  color: #555;
+}
+
+.game footer hr {
+  border-top: 1px solid #888;
+  border-bottom: none;
+}
