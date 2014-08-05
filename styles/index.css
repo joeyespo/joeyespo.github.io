@@ -79,8 +79,8 @@
 }
 .events .aside {
   float: right;
+  color: #ccc;
   font-weight: normal;
-  color: #aaa;
 }
 .events iframe {
   display: block;
