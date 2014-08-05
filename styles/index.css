@@ -59,3 +59,33 @@
   max-width: 768px;
   margin: 0 auto;
 }
+
+.events-container {
+  width: 100%;
+  margin: 52px 0 0 0;
+  padding: 0;
+}
+.events {
+  background: none no-repeat;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+.events .calendar {
+  margin: 0 -56px;
+}
+.events a {
+  font-weight: bold;
+}
+.events .feed {
+  float: right;
+}
+.events .aside {
+  float: right;
+  font-weight: normal;
+  color: #aaa;
+}
+.events iframe {
+  display: block;
+  border: none;
+}
