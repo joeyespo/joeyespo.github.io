@@ -65,14 +65,14 @@
   margin: 64px 0 0 0;
   padding: 0;
 }
-.events {
+.events .events-description {
   background: none no-repeat;
   max-width: 768px;
   margin: 0 auto;
   padding: 0 12px;
 }
 .events .calendar {
-  margin: 0 -56px;
+  margin: 0;
 }
 .events a {
   font-weight: bold;
