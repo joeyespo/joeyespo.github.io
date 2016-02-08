@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/joeyespo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joeyespo.com
+  * I am joeyespo (https://keybase.io/joeyespo) on keybase.
+  * I have a public key with fingerprint 22EB 13A9 C8CE E5A5 77A7  8AF2 657E 9678 83E5 2DB5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019d1b875e7d7e1fcf3f84c3e979dde3c0edfe7d1ad37fbba4cae7981ddf3cd6e60a",
+            "fingerprint": "22eb13a9c8cee5a577a78af2657e967883e52db5",
+            "host": "keybase.io",
+            "key_id": "657e967883e52db5",
+            "kid": "01019d1b875e7d7e1fcf3f84c3e979dde3c0edfe7d1ad37fbba4cae7981ddf3cd6e60a",
+            "uid": "bfc630245df98bdaab4e0095c81c3219",
+            "username": "joeyespo"
+        },
+        "service": {
+            "hostname": "joeyespo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454970694,
+    "expire_in": 157680000,
+    "prev": "9cacd35e5f4b430b25736d45bffbc433cf27c1db531a21cdb18f18df0befac09",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIYAnicrZJtaE1xHMfPMF1r8vBGRDgZb2638/xw1zy9IFkpiix1+z/8/nfH5pzj
+nHOv3WyZZUOSlGEvJESaeCF5bDNrFCu78lA0kURsNQuhhP9ZvJGX/m/+/X+/z/f7
+e+jfN3m8UFbyxgcazK08UtJ/63BOWH9txortIvZoQUxvF+tg7IJ6CmGUqXOomBYl
+WZJtKmPL1MGkJsiMMJVZGlHBNm1KQSUSUMZzMqKqyTBGGkFg2pZMKVMJNcCQkJgU
+meNmIfADx424raIAllVkE4sA6Eg3TWRaiCmGboJtmJalgq5QrHNhrRfGCt4cRiGk
+HI/H+CMz1t4/+P/cd27MDjNiqJKi6ZTZFqYIYQ0kydaJJRNVke0YDCFw0Rbg9GYP
+ChD6ntiUFHk07xCIFxtP8heRIt4WrvUDL/KIV88ztVHkp2NhVPBjchvgzG+PDHZc
+ytfIBXkIQsdzxbTMSRI5sams6ZptSoatJUVo8J0AMk5M6KZhSfzEZSDPLW2CCFV1
+0JmGNVXCim6qBtV0zBgmmqoSpphE5ttUZaTIhGLZYrJFmYSBISLFw4aw1fXENK8U
+oSy3DJ2si6JcAGJTb8+mCUJJmTCxdFz8vYSySVP/fLoJtQmh2NyVzR3DYWK0ZZTV
+VyUv1eTo0dSTHYVTF/Kzdn662NMV1N3LltdUTl040nmg5UXzEZy6vXqK00nmTHy5
+u7NYhMGNeHyl6R4tP4QOWh9vNBjCzemJHnftonNnv7z0vw9uWDdwef7jRLj60MxF
+zpodP1r7cMep9sK1tof914UTZwrS6ZGBXftL15cqV9uejpTPPrngbU314PFH79qW
+tA4lrnQfIxUVw6nivCFt34CwtGrDxm9bR8RVqYszk18ftE/L+wPozk/tfFP/sjWN
+i8+3H/hQ/ep49crFr5+fu3X9/qOhxxW7Gk9UC3f3tnYU9lv28LP3zys+T+9o7C5e
+Xrhn+dfeX/rFR/0=
+=qR7P
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeyespo
+
+==================================================================
