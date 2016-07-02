@@ -1,6 +1,6 @@
 @media (min-width: 1065px) {
   .profile {
-    background-position: 512px;
+    background-position: 488px;
   }
 }
 @media (min-width: 500px) and (max-width: 1064px) {
@@ -37,6 +37,10 @@ h1 a, h2 a {
 a {
   color: #333;
 }
+a:focus,
+a:hover {
+  color: #333;
+}
 
 .intro-container {
   background: #222;
@@ -49,10 +53,14 @@ a {
 
 .profile-container {
   color: #333;
+  margin-top: 12px;
 }
 .profile {
   background-image: url("../images/profile.png");
   min-height: 250px;
+}
+.profile h1 {
+  padding: 16px 0;
 }
 .profile a {
   font-size: 18px;
