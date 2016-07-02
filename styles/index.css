@@ -22,11 +22,6 @@
   margin: 0 auto;
   padding: 0 12px;
 }
-.profile h1 {
-  margin: 0;
-  padding: 24px 0;
-}
-
 .bio ul {
   margin: 0;
   padding: 0;
@@ -34,7 +29,6 @@
 .bio li {
   margin-bottom: 8px;
 }
-
 .social-icons {
   display: block;
   margin-top: 24px;
@@ -47,15 +41,4 @@
 .social-icons li {
   float: left;
   margin-right: 8px;
-}
-
-.description-container {
-  display: block;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-.description {
-  max-width: 768px;
-  margin: 0 auto;
 }
