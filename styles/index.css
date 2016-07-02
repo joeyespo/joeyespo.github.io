@@ -18,6 +18,8 @@
 }
 .profile {
   background: none no-repeat;
+}
+.section-content {
   max-width: 768px;
   margin: 0 auto;
   padding: 0 12px;

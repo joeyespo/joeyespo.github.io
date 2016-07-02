@@ -1,22 +1,32 @@
 @media (min-width: 1065px) {
-  .profile {
+  .section-content {
     background-position: 488px;
   }
-}
-@media (min-width: 500px) and (max-width: 1064px) {
-  .profile {
-    background-position: top right;
+  .section-content h1 {
+    padding: 16px 0;
   }
 }
-@media (max-width: 499px) {
-  .profile {
+@media (min-width: 600px) and (max-width: 1064px) {
+  .section-content {
+    background-position: top right;
+  }
+  .section-content h1 {
+    padding: 16px 0;
+  }
+}
+@media (max-width: 599px) {
+  .section-content {
     background-position: top;
     width: 280px;
     margin: 0 auto;
     padding: 12px;
   }
-  .profile h1 {
+  .section-content h1 {
     padding-top: 266px;
+  }
+  .section-content a {
+    max-width: 280px;
+    white-space: normal;
   }
 }
 
@@ -58,9 +68,6 @@ a:hover {
 .profile {
   background-image: url("../images/profile.png");
   min-height: 250px;
-}
-.profile h1 {
-  padding: 16px 0;
 }
 .profile a {
   font-size: 18px;
